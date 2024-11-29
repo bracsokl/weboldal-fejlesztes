@@ -1,0 +1,49 @@
+h2 {
+    text-align: center;
+    color: rgb(107, 104, 66);
+    font-size: 24px;
+    text-decoration-line: underline;
+}   
+
+
+img {
+    border-radius: 15px 50px;
+    box-shadow: 10px 10px 15px grey;
+}
+
+
+body {
+    background-color: rgb(240, 232, 232);
+}
+
+
+a {
+    color:brown;
+    font-size: larger;
+}
+
+
+a:hover {
+    color:blueviolet
+    
+}
+
+table {
+    background-color: azure;
+    text-align: center;
+    margin: auto;
+}
+
+
+td {
+    color: blueviolet;
+}
+
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+    border-radius: 15px 15px 0px 0px;
+}
